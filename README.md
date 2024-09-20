@@ -25,12 +25,19 @@ I have kept the styling at a bare miniumum for you to go wild and make it your o
 
 
 ## Website Demo
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
-![alt text](image-9.png)
+
+![image](https://github.com/user-attachments/assets/1ffa153d-cb69-4996-8240-9429c8f53a08)
+![image-1](https://github.com/user-attachments/assets/84eed270-94f4-43b0-8567-c68db7e51de4)
+![image-2](https://github.com/user-attachments/assets/1883cb0a-2f16-4297-a5f5-af0a3a16c6be)
+![image-3](https://github.com/user-attachments/assets/c3feab7c-4fde-4fc3-919f-76b73e29420e)
+![image-4](https://github.com/user-attachments/assets/329fb70b-0196-4286-b4ce-278cbb24eefb)
+![image-5](https://github.com/user-attachments/assets/40913f26-01e3-46f4-b80b-f889aab892f0)
+![image-6](https://github.com/user-attachments/assets/bbbec93a-744f-4a76-9e82-debb8792ce3c)
+![image-7](https://github.com/user-attachments/assets/31887b54-11aa-45d2-b064-b6a7a5849569)
+![image-8](https://github.com/user-attachments/assets/7e59d09a-de00-4a1a-8586-c5517485b6e2)
+![image-9](https://github.com/user-attachments/assets/6271fcd9-8400-4d4b-8ee6-4761c85fe08a)
+
+
+
+
+
